@@ -1,0 +1,49 @@
+[project]
+name = "tigie-nico-mx"
+version = "1.0.0"
+description = "Mexico's import/export tariff (TIGIE 2022 of the LIGIE) with its NICOs and every duty dated by the decree that set it, as open CSV, SQLite and JSON."
+readme = "README.md"
+license = "MIT"
+license-files = ["LICENSE", "LICENSE-DATA"]
+authors = [{ name = "Baja Labs" }]
+requires-python = ">=3.12"
+dependencies = []
+keywords = ["tigie", "ligie", "nico", "arancel", "tariff", "mexico", "customs", "open-data", "harmonized-system"]
+classifiers = [
+    "Programming Language :: Python :: 3.12",
+    "Natural Language :: Spanish",
+    "Topic :: Scientific/Engineering :: Information Analysis",
+]
+
+[project.urls]
+Homepage = "https://github.com/bajalabs/tigie-nico-mx"
+Issues = "https://github.com/bajalabs/tigie-nico-mx/issues"
+
+[project.scripts]
+tigie-nico-mx = "tigie_nico_mx.cli:main"
+
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["tigie_nico_mx"]
+
+[tool.setuptools.package-data]
+tigie_nico_mx = ["sources.json"]
+
+[tool.uv]
+# No dependencies and nothing to install: `uv run python -m tigie_nico_mx` runs from the clone.
+package = false
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "UP", "B", "S"]
+
+[tool.ruff.lint.per-file-ignores]
+"tests/**" = ["S101", "S108", "S608"]
+# table, column and view names are the module's own constants; values always travel as parameters
+"tigie_nico_mx/export.py" = ["S608"]

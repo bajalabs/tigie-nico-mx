@@ -1,0 +1,10 @@
+dist/
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+capture/
+captura/
+.DS_Store
+.ruff_cache/
+dist-sample/

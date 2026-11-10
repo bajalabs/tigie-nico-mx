@@ -1,0 +1,280 @@
+{
+  "name": "TIGIE 2022 (LIGIE) — fuentes",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión, LeyesBiblio (copia informativa de publicaciones del DOF)",
+  "index_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ligie_2022.htm",
+  "consolidated_on": "2026-10-14",
+  "ligie_in_force": "2022-12-12",
+  "ligie_in_force_source": "DOF 05-12-2022 codNota 5673259",
+  "files": [
+    {
+      "key": "ligie",
+      "file": "LIGIE_2022.doc",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/doc/LIGIE_2022.doc",
+      "dof": "2025-12-29",
+      "cod_nota": 5777376,
+      "title": "Ley de los Impuestos Generales de Importación y de Exportación (texto vigente, Cámara de Diputados; última reforma DOF 29-12-2025; Tarifa modificada por Decreto DOF 13-10-2026)",
+      "sha256": "d61045132412e188f65323099de479170464382a13fc06add849b20cdf253112",
+      "role": "Texto vigente consolidado por la Cámara: árbol, descripciones, UMT y cuotas publicadas"
+    },
+    {
+      "key": "orig",
+      "file": "ligie_2022/LIGIE_2022_orig_07jun22.doc",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ligie_2022/LIGIE_2022_orig_07jun22.doc",
+      "dof": "2022-06-07",
+      "cod_nota": 5654292,
+      "title": "Decreto por el que se expide la Ley de los Impuestos Generales de Importación y de Exportación",
+      "sha256": "a2a05960c255de604aa46880c85f524738cf4bfb5a59127fe9232130b635c883",
+      "role": "Ley como se publicó: cuotas base de IGI e IGE"
+    },
+    {
+      "key": "nico",
+      "file": "ligie_2022/LIGIE_2022_acuerdo02_22ago22.doc",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ligie_2022/LIGIE_2022_acuerdo02_22ago22.doc",
+      "dof": "2022-08-22",
+      "cod_nota": 5662042,
+      "title": "Acuerdo por el que se dan a conocer los Números de Identificación Comercial (NICO) y sus tablas de correlación",
+      "sha256": "9cc28ce44bfb585054b31195eb0991a38c15e6368e5bb98fd6f11bd78e214cd6",
+      "role": "Acuerdo NICO base"
+    },
+    {
+      "key": "nico_mod1",
+      "file": "ligie_2022/LIGIE_2022_acuerdo02_mod01_30jun23.doc",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ligie_2022/LIGIE_2022_acuerdo02_mod01_30jun23.doc",
+      "dof": "2023-06-30",
+      "cod_nota": 5693979,
+      "title": "Acuerdo que modifica al diverso por el que se dan a conocer los Números de Identificación Comercial (NICO) y sus tablas de correlación",
+      "sha256": "a58c01cb553d97e9583716d6f383c6b162e9749d0177d0936c3d569db0b2d108",
+      "role": "Modificación de NICO"
+    },
+    {
+      "key": "nico_mod2",
+      "file": "ligie_2022/LIGIE_2022_acuerdo02_mod02_22mar24.doc",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ligie_2022/LIGIE_2022_acuerdo02_mod02_22mar24.doc",
+      "dof": "2024-03-22",
+      "cod_nota": 5721086,
+      "title": "Acuerdo que modifica al diverso por el que se dan a conocer los Números de Identificación Comercial (NICO) y sus tablas de correlación",
+      "sha256": "12ba3481efa0027c5c6eedf6fb4071eb1b4ef6d690071ae84eee1a8f59f2c1dc",
+      "role": "Modificación de NICO"
+    },
+    {
+      "key": "tarifa01",
+      "file": "ligie_2022/LIGIE_2022_tarifa01_18nov22.doc",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ligie_2022/LIGIE_2022_tarifa01_18nov22.doc",
+      "dof": "2022-11-18",
+      "cod_nota": 5671925,
+      "title": "Decreto por el que se exenta el pago de arancel de importación a las mercancías que se indican",
+      "sha256": "50a3e24f2eb674209bb34445efe125118576aff45a64ee4b302d31b9740205e3",
+      "role": "Decreto o reforma que modifica la Tarifa"
+    },
+    {
+      "key": "tarifa02",
+      "file": "ligie_2022/LIGIE_2022_tarifa02_18nov22.doc",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ligie_2022/LIGIE_2022_tarifa02_18nov22.doc",
+      "dof": "2022-11-18",
+      "cod_nota": 5671926,
+      "title": "Decreto por el que se modifica la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, el Decreto para el apoyo de la competitividad de la industria automotriz terminal … y los diversos por los que se establecen aranceles-cupo",
+      "sha256": "e2adf3dabbbf31f2b21764107f98f75df00bfcf5fa65c717570f2e4676185439",
+      "role": "Decreto o reforma que modifica la Tarifa"
+    },
+    {
+      "key": "tarifa02_mod01",
+      "file": "ligie_2022/LIGIE_2022_tarifa02_mod01_22abr24.doc",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ligie_2022/LIGIE_2022_tarifa02_mod01_22abr24.doc",
+      "dof": "2024-04-22",
+      "cod_nota": 5724097,
+      "title": "Decreto por el que se modifica la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, respecto del arancel-cupo aplicable al café en cápsulas",
+      "sha256": "b75745da7e33343581717c34beb312008294b92a90e8d02f3e9e8af7dd027cad",
+      "role": "Decreto o reforma que modifica la Tarifa"
+    },
+    {
+      "key": "tarifa02_mod02",
+      "file": "ligie_2022/LIGIE_2022_tarifa02_mod02_26mar26.doc",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ligie_2022/LIGIE_2022_tarifa02_mod02_26mar26.doc",
+      "dof": "2026-03-26",
+      "cod_nota": 5783297,
+      "title": "Decreto por el que se modifica el diverso que modifica la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, el Decreto para el apoyo de la competitividad de la industria automotriz terminal …",
+      "sha256": "0980f8c3e391ea93cda0114da72fa47bc69f3d58e7b7eb87a506a69c0c7c5af0",
+      "role": "Decreto o reforma que modifica la Tarifa"
+    },
+    {
+      "key": "tarifa03",
+      "file": "ligie_2022/LIGIE_2022_tarifa03_06ene23.doc",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ligie_2022/LIGIE_2022_tarifa03_06ene23.doc",
+      "dof": "2023-01-06",
+      "cod_nota": 5676565,
+      "title": "Decreto por el que se exenta el pago de arancel de importación y se otorgan facilidades administrativas a diversas mercancías de la canasta básica y de consumo básico de las familias",
+      "sha256": "f8ac2908e06020a3c8b53cf900fa767c1aba063f7df61bccb327d62921c1d65e",
+      "role": "Decreto o reforma que modifica la Tarifa"
+    },
+    {
+      "key": "tarifa04",
+      "file": "ligie_2022/LIGIE_2022_tarifa04_16ene23.doc",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ligie_2022/LIGIE_2022_tarifa04_16ene23.doc",
+      "dof": "2023-01-16",
+      "cod_nota": 5677205,
+      "title": "Decreto por el que se modifica la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación",
+      "sha256": "f0ac00dc8231cd21c55be8f6d4d3ab9c8b61078b6a2d5912f31f29943d287c1c",
+      "role": "Decreto o reforma que modifica la Tarifa"
+    },
+    {
+      "key": "tarifa05",
+      "file": "ligie_2022/LIGIE_2022_tarifa05_18may23.doc",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ligie_2022/LIGIE_2022_tarifa05_18may23.doc",
+      "dof": "2023-05-18",
+      "cod_nota": 5689268,
+      "title": "Decreto por el que se modifica el diverso por el que se exenta el pago de arancel de importación y se otorgan facilidades administrativas a diversas mercancías de la canasta básica y de consumo básico de las familias, publicado en el DOF el 6 de enero de 2023",
+      "sha256": "5d821828424456288cc0e6891c1a26957b693bd9a3ccdacbbb408fb1796bfe30",
+      "role": "Decreto o reforma que modifica la Tarifa"
+    },
+    {
+      "key": "tarifa06",
+      "file": "ligie_2022/LIGIE_2022_tarifa06_23jun23.doc",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ligie_2022/LIGIE_2022_tarifa06_23jun23.doc",
+      "dof": "2023-06-23",
+      "cod_nota": 5693309,
+      "title": "Decreto por el que se modifican diversos ordenamientos jurídicos relativos a los aranceles aplicables al maíz blanco",
+      "sha256": "936660a2b648ed96446604910de5f04471dc1a5751b36a2423d8715dbbaf6cb8",
+      "role": "Decreto o reforma que modifica la Tarifa"
+    },
+    {
+      "key": "tarifa07",
+      "file": "ligie_2022/LIGIE_2022_tarifa07_15ago23.doc",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ligie_2022/LIGIE_2022_tarifa07_15ago23.doc",
+      "dof": "2023-08-15",
+      "cod_nota": 5698661,
+      "title": "Decreto por el que se modifica la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación",
+      "sha256": "0ab455c56cdc1b9d44442586d879a87e11b802fd3dd464e002bfa61aaea4cfab",
+      "role": "Decreto o reforma que modifica la Tarifa"
+    },
+    {
+      "key": "tarifa08",
+      "file": "ligie_2022/LIGIE_2022_tarifa08_27dic23.doc",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ligie_2022/LIGIE_2022_tarifa08_27dic23.doc",
+      "dof": "2023-12-27",
+      "cod_nota": 5712635,
+      "title": "Decreto por el que se modifica el diverso por el que se exenta el pago de arancel de importación y se otorgan facilidades administrativas a diversas mercancías de la canasta básica y de consumo básico de las familias",
+      "sha256": "f44d7c58e82798151896499e2bfe1d43d229bb73344ecd98b1071eb2717c695a",
+      "role": "Decreto o reforma que modifica la Tarifa"
+    },
+    {
+      "key": "tarifa09",
+      "file": "ligie_2022/LIGIE_2022_tarifa09_22abr24.doc",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ligie_2022/LIGIE_2022_tarifa09_22abr24.doc",
+      "dof": "2024-04-22",
+      "cod_nota": 5724207,
+      "title": "Decreto por el que se modifica la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación",
+      "sha256": "ff5b2427e3ba9a753b96ec1e2e50ef32545fe493bedd3802331d25a90b7f1f4d",
+      "role": "Decreto o reforma que modifica la Tarifa"
+    },
+    {
+      "key": "tarifa10",
+      "file": "ligie_2022/LIGIE_2022_tarifa10_08may24.doc",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ligie_2022/LIGIE_2022_tarifa10_08may24.doc",
+      "dof": "2024-05-08",
+      "cod_nota": 5725965,
+      "title": "Decreto por el que se reforman el diverso por el que se modifica la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, y el Decreto por el que se exenta el pago de arancel de importación … canasta básica",
+      "sha256": "e337ac928a5e146f5471479770b8a70977532493674ad8f8172ecff1dc72b82d",
+      "role": "Decreto o reforma que modifica la Tarifa"
+    },
+    {
+      "key": "tarifa11",
+      "file": "ligie_2022/LIGIE_2022_tarifa11_19dic24.doc",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ligie_2022/LIGIE_2022_tarifa11_19dic24.doc",
+      "dof": "2024-12-19",
+      "cod_nota": 5745788,
+      "title": "Decreto por el que se modifica la tarifa de la Ley de los Impuestos Generales de Importación y de Exportación y el Decreto para el Fomento de la Industria Manufacturera, Maquiladora y de Servicios de Exportación",
+      "sha256": "cfdd360466d4123600419657a17941fcb1d074bb353dc2747179695fd6e407b0",
+      "role": "Decreto o reforma que modifica la Tarifa"
+    },
+    {
+      "key": "tarifa12",
+      "file": "ligie_2022/LIGIE_2022_tarifa12_31dic24.doc",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ligie_2022/LIGIE_2022_tarifa12_31dic24.doc",
+      "dof": "2024-12-31",
+      "cod_nota": 5746532,
+      "title": "Decreto por el que se modifica el diverso por el que se exenta el pago de arancel de importación y se otorgan facilidades administrativas a diversas mercancías de la canasta básica y de consumo básico de las familias",
+      "sha256": "eaefad9d3b14613bffe438c814835cca1b5d1e28da10bcb4a771df085d49d827",
+      "role": "Decreto o reforma que modifica la Tarifa"
+    },
+    {
+      "key": "ref01",
+      "file": "ligie_2022/LIGIE_2022_ref01_21jul25.doc",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ligie_2022/LIGIE_2022_ref01_21jul25.doc",
+      "dof": "2025-07-21",
+      "cod_nota": 5763398,
+      "title": "Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de los Impuestos Generales de Importación y de Exportación",
+      "sha256": "6ad47157643bc0706350737c2caf5c5ed7e05288d6a643bbe4779b876cb10ce5",
+      "role": "Decreto o reforma que modifica la Tarifa"
+    },
+    {
+      "key": "tarifa13",
+      "file": "ligie_2022/LIGIE_2022_tarifa13_10nov25.doc",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ligie_2022/LIGIE_2022_tarifa13_10nov25.doc",
+      "dof": "2025-11-10",
+      "cod_nota": 5772497,
+      "title": "Decreto por el que se modifica la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación",
+      "sha256": "801acf0a96f9c36c2099624564bef9c87510a4b2807c3041ab094d3d88e5ef0f",
+      "role": "Decreto o reforma que modifica la Tarifa"
+    },
+    {
+      "key": "ref02",
+      "file": "ligie_2022/LIGIE_2022_ref02_29dic25.doc",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ligie_2022/LIGIE_2022_ref02_29dic25.doc",
+      "dof": "2025-12-29",
+      "cod_nota": 5777376,
+      "title": "Decreto por el que se reforman diversas fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación",
+      "sha256": "ebeb47a45d56dc8466b93a665f26555d2c904f41c0163cc517674c947f463f43",
+      "role": "Decreto o reforma que modifica la Tarifa"
+    },
+    {
+      "key": "tarifa14",
+      "file": "ligie_2022/LIGIE_2022_tarifa14_31dic25.doc",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ligie_2022/LIGIE_2022_tarifa14_31dic25.doc",
+      "dof": "2025-12-31",
+      "cod_nota": 5777651,
+      "title": "Decreto por el que se modifica el diverso por el que se exenta el pago de arancel de importación y se otorgan facilidades administrativas a diversas mercancías de la canasta básica y de consumo básico de las familias",
+      "sha256": "84102604b0bc42701d0aa1eee9187b2a807c7ddb20953aafdea63de3762a3dfd",
+      "role": "Decreto o reforma que modifica la Tarifa"
+    },
+    {
+      "key": "tarifa15",
+      "file": "ligie_2022/LIGIE_2022_tarifa15_23abr26.doc",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ligie_2022/LIGIE_2022_tarifa15_23abr26.doc",
+      "dof": "2026-04-23",
+      "cod_nota": 5785818,
+      "title": "Decreto por el que se modifica la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, y el Decreto por el que se establecen diversos Programas de Promoción Sectorial",
+      "sha256": "1e5c1bc6dac51f1c0e668b11ccc2613b2b1111d2d0c11db2b46debc19b3c9ff8",
+      "role": "Decreto o reforma que modifica la Tarifa"
+    },
+    {
+      "key": "tarifa16",
+      "file": "ligie_2022/LIGIE_2022_tarifa16_13oct26.doc",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ligie_2022/LIGIE_2022_tarifa16_13oct26.doc",
+      "dof": "2026-10-13",
+      "cod_nota": 5800977,
+      "title": "Decreto por el que se modifica la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación",
+      "sha256": "1ce69794b143aa1863a32e786a49037e2e20af7aa09cf56ede190aad36e3e479",
+      "role": "Decreto o reforma que modifica la Tarifa"
+    }
+  ],
+  "listed_not_read": [
+    {
+      "key": "acuerdo01",
+      "file": "ligie_2022/LIGIE_2022_acuerdo01_14jul22.doc",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ligie_2022/LIGIE_2022_acuerdo01_14jul22.doc",
+      "dof": "2022-07-14",
+      "title": "Acuerdo por el que se dan a conocer las tablas de correlación entre las fracciones arancelarias de la TIGIE 2020-2022",
+      "sha256": "f35fb2c557b569d080336d802d96208ffca04778fc84f5ecbc42d0fc0e54380c",
+      "why": "Correlación 2020-2022: fuera del alcance de la versión 1.0.0"
+    },
+    {
+      "key": "acuerdo03",
+      "file": "ligie_2022/LIGIE_2022_acuerdo03_02dic22.doc",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ligie_2022/LIGIE_2022_acuerdo03_02dic22.doc",
+      "dof": "2022-12-02",
+      "title": "Acuerdo por el que se dan a conocer las Notas Nacionales de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación",
+      "sha256": "613a9e13d52bb3f55ed5dd58d2f3fab3d75fceee11d01586f306bea2e98d88a4",
+      "why": "Notas Nacionales: fuera del alcance de la versión 1.0.0"
+    }
+  ]
+}
