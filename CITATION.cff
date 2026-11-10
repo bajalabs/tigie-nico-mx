@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "Si usa estos datos, cítelos así. / If you use this data, please cite it as below."
+type: dataset
+title: "tigie-nico-mx: TIGIE 2022 con NICO y aranceles fechados por decreto"
+abstract: >-
+  La Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación (TIGIE 2022)
+  de México con sus Números de Identificación Comercial (NICO) y cada arancel de importación y
+  exportación fechado por el decreto del Diario Oficial de la Federación que lo fijó, construida
+  a partir de las copias de la Cámara de Diputados, en CSV, SQLite y JSON. Mexico's import and
+  export tariff (TIGIE 2022) with its NICOs and every duty dated by the decree that set it.
+authors:
+  - name: "Baja Labs"
+version: "1.0.0"
+date-released: "2026-11-10"
+license:
+  - CC0-1.0
+  - MIT
+repository-code: "https://github.com/bajalabs/tigie-nico-mx"
+url: "https://github.com/bajalabs/tigie-nico-mx"
+keywords:
+  - TIGIE
+  - LIGIE
+  - NICO
+  - arancel
+  - fracción arancelaria
+  - tariff
+  - Mexico
+  - customs
+  - Harmonized System
+  - open data
+references:
+  - type: statute
+    title: "Ley de los Impuestos Generales de Importación y de Exportación"
+    authors:
+      - name: "Congreso de la Unión"
+    date-published: "2022-06-07"
+    publisher:
+      name: "Diario Oficial de la Federación"
+    url: "https://www.diputados.gob.mx/LeyesBiblio/ref/ligie_2022.htm"
